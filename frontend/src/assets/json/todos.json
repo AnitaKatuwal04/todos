@@ -1,0 +1,95 @@
+{
+  "todosList": [
+    {
+      "id":1,
+      "title": "Complete Math assignment",
+      "description": "Finish the algebra exercises for chapter 5.",
+      "status": "ongoing"
+    },
+    {
+      "id":2,
+      "title": "Buy groceries",
+      "description": "Purchase vegetables, fruits, and milk from the market.",
+      "status": "completed"
+    },
+    {
+      "id":3,
+      "title": "Call plumber for bathroom leak",
+      "description": "Contact local plumber service to fix the leaking pipe in the bathroom.",
+      "status": "deleted"
+    },
+    {
+      "id":4,
+      "title": "Prepare presentation slides",
+      "description": "Create slides for the upcoming project presentation.",
+      "status": "ongoing"
+    },
+    {
+      "id":5,
+      "title": "Review contract draft",
+      "description": "Go through the legal terms and conditions in the contract draft.",
+      "status": "completed"
+    },
+    {
+      "id":6,
+      "title": "Cancel subscription",
+      "description": "Cancel the monthly subscription to streaming service.",
+      "status": "deleted"
+    },
+
+    {
+      "id":7,
+      "title": "Exercise session",
+      "description": "Go for a 30-minute jog around the park.",
+      "status": "completed"
+    },
+    {
+      "id":8,
+      "title": "Sort out paperwork",
+      "description": "Organize important documents into folders.",
+      "status": "deleted"
+    },
+    {
+      "id":9,
+      "title": "Pay utility bills",
+      "description": "Settle electricity, water, and internet bills for the month.",
+      "status": "deleted"
+    },
+    {
+      "id":10,
+      "title": "Clean garage",
+      "description": "Organize tools and equipment in the garage.",
+      "status": "deleted"
+    },
+    {
+      "id":11,
+      "title": "Read book",
+      "description": "Read chapters 5 to 8 of 'The Hitchhiker's Guide to the Galaxy'.",
+      "status": "deleted"
+    },
+    {
+      "id":12,
+      "title": "Update resume",
+      "description": "Revise resume with latest achievements and skills.",
+      "status": "deleted"
+    },
+    {
+      "id":13,
+      "title": "Research investment options",
+      "description": "Explore different investment opportunities for financial growth.",
+      "status": "deleted"
+    },
+    {
+      "id":14,
+      "title": "Organize digital files",
+      "description": "Sort and categorize files on computer and cloud storage.",
+      "status": "deleted"
+    },
+    {
+      "id":15,
+      "title": "Donate old clothes",
+      "description": "Pack unwanted clothes for donation to local charity.",
+      "status": "deleted"
+    }
+  ]
+}
